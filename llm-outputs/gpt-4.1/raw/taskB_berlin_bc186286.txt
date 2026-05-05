@@ -1,0 +1,2505 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Mustafa's Gemüse Kebap"},
+      "geometry": {"type": "Point", "coordinates": [13.388859, 52.499622]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Curry 36"},
+      "geometry": {"type": "Point", "coordinates": [13.387247, 52.499348]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Zur letzten Instanz"},
+      "geometry": {"type": "Point", "coordinates": [13.406222, 52.520553]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Monsieur Vuong"},
+      "geometry": {"type": "Point", "coordinates": [13.410342, 52.526013]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Burgermeister"},
+      "geometry": {"type": "Point", "coordinates": [13.448889, 52.499167]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Neni Berlin"},
+      "geometry": {"type": "Point", "coordinates": [13.343889, 52.501389]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Doyum"},
+      "geometry": {"type": "Point", "coordinates": [13.418611, 52.496944]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Prater Garten"},
+      "geometry": {"type": "Point", "coordinates": [13.410278, 52.540278]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Zur Haxe"},
+      "geometry": {"type": "Point", "coordinates": [13.442222, 52.548056]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Witty's"},
+      "geometry": {"type": "Point", "coordinates": [13.332778, 52.500278]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Schwarzwaldstuben"},
+      "geometry": {"type": "Point", "coordinates": [13.393889, 52.529167]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Konnopke's Imbiss"},
+      "geometry": {"type": "Point", "coordinates": [13.413056, 52.541111]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Max und Moritz"},
+      "geometry": {"type": "Point", "coordinates": [13.418056, 52.505278]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Lutter & Wegner"},
+      "geometry": {"type": "Point", "coordinates": [13.390833, 52.507222]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Zur kleinen Markthalle"},
+      "geometry": {"type": "Point", "coordinates": [13.419167, 52.5075]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Hasir"},
+      "geometry": {"type": "Point", "coordinates": [13.389722, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ristorante A Mano"},
+      "geometry": {"type": "Point", "coordinates": [13.4325, 52.513611]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Einstein Stammhaus"},
+      "geometry": {"type": "Point", "coordinates": [13.353333, 52.501111]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Vöner"},
+      "geometry": {"type": "Point", "coordinates": [13.462222, 52.510833]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Sasaya"},
+      "geometry": {"type": "Point", "coordinates": [13.426111, 52.542222]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Good Morning Vietnam"},
+      "geometry": {"type": "Point", "coordinates": [13.4175, 52.513056]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café am Neuen See"},
+      "geometry": {"type": "Point", "coordinates": [13.343611, 52.511389]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Schneeweiß"},
+      "geometry": {"type": "Point", "coordinates": [13.4575, 52.510278]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Il Ritrovo"},
+      "geometry": {"type": "Point", "coordinates": [13.444167, 52.499722]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Anna Blume"},
+      "geometry": {"type": "Point", "coordinates": [13.415278, 52.541111]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Wen Cheng"},
+      "geometry": {"type": "Point", "coordinates": [13.410833, 52.545278]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Zola"},
+      "geometry": {"type": "Point", "coordinates": [13.431944, 52.493611]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Kreuzburger"},
+      "geometry": {"type": "Point", "coordinates": [13.418889, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Schnitzelei"},
+      "geometry": {"type": "Point", "coordinates": [13.323611, 52.536111]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Henne"},
+      "geometry": {"type": "Point", "coordinates": [13.410278, 52.488611]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Fleury"},
+      "geometry": {"type": "Point", "coordinates": [13.398889, 52.5325]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Witty's"},
+      "geometry": {"type": "Point", "coordinates": [13.388611, 52.516389]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dudu"},
+      "geometry": {"type": "Point", "coordinates": [13.393611, 52.529444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gugelhof"},
+      "geometry": {"type": "Point", "coordinates": [13.415, 52.541389]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Morgenland"},
+      "geometry": {"type": "Point", "coordinates": [13.4225, 52.499722]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Luzia"},
+      "geometry": {"type": "Point", "coordinates": [13.419444, 52.499167]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Schwarze Heidi"},
+      "geometry": {"type": "Point", "coordinates": [13.425, 52.488611]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Krone"},
+      "geometry": {"type": "Point", "coordinates": [13.401111, 52.541111]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Cinema"},
+      "geometry": {"type": "Point", "coordinates": [13.401389, 52.526389]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Engelberg"},
+      "geometry": {"type": "Point", "coordinates": [13.415278, 52.541944]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Rix"},
+      "geometry": {"type": "Point", "coordinates": [13.431111, 52.480278]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Bilderbuch"},
+      "geometry": {"type": "Point", "coordinates": [13.353611, 52.4875]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café am Engelbecken"},
+      "geometry": {"type": "Point", "coordinates": [13.420278, 52.510278]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Spreeblick"},
+      "geometry": {"type": "Point", "coordinates": [13.444722, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Café Restaurant Jolesch"},
+      "geometry": {"type": "Point", "coordinates": [13.422222, 52.499444]}
+    }
+  ]
+}

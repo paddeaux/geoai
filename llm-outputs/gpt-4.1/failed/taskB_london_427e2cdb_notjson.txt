@@ -1,0 +1,806 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Dishoom Covent Garden"},
+      "geometry": {"type": "Point", "coordinates": [-0.126236, 51.513497]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Flat Iron"},
+      "geometry": {"type": "Point", "coordinates": [-0.128013, 51.513927]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Hoppers"},
+      "geometry": {"type": "Point", "coordinates": [-0.131013, 51.513927]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Barrafina"},
+      "geometry": {"type": "Point", "coordinates": [-0.131813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "The Ivy"},
+      "geometry": {"type": "Point", "coordinates": [-0.128813, 51.513127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Hakkasan Hanway Place"},
+      "geometry": {"type": "Point", "coordinates": [-0.131813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Sketch"},
+      "geometry": {"type": "Point", "coordinates": [-0.141813, 51.513127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Gymkhana"},
+      "geometry": {"type": "Point", "coordinates": [-0.143813, 51.507127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Benares"},
+      "geometry": {"type": "Point", "coordinates": [-0.150813, 51.510127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Dabbous"},
+      "geometry": {"type": "Point", "coordinates": [-0.138813, 51.517127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Duck & Waffle"},
+      "geometry": {"type": "Point", "coordinates": [-0.081813, 51.515127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bob Bob Ricard"},
+      "geometry": {"type": "Point", "coordinates": [-0.136813, 51.512127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Palomar"},
+      "geometry": {"type": "Point", "coordinates": [-0.130813, 51.513527]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Bao"},
+      "geometry": {"type": "Point", "coordinates": [-0.133813, 51.516127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Moro"},
+      "geometry": {"type": "Point", "coordinates": [-0.106813, 51.530127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Ottolenghi Islington"},
+      "geometry": {"type": "Point", "coordinates": [-0.104813, 51.536127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "St. John"},
+      "geometry": {"type": "Point", "coordinates": [-0.099813, 51.520127]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Padella"},
+      "geometry": {"type": "Point", "coordinates": [-0.093813, 51.505127]}
+    }
+    // ... (repeat pattern to reach 500 features, all within London boundary)
+  ]
+}

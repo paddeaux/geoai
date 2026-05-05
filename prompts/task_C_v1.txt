@@ -1,0 +1,12 @@
+Generate a GeoJSON FeatureCollection of exactly 500 randomly distributed Point features within the following city boundary:
+
+{{BOUNDARY_JSON}}
+
+Requirements:
+- Type: FeatureCollection
+- Exactly 500 features, each of type Point
+- Points must be spatially random — do not cluster them or follow any street pattern
+- All points must be inside the provided boundary
+- Coordinates in WGS84 (longitude, latitude)
+- Each feature must have at minimum: {"id": <integer>}
+- Output ONLY the GeoJSON — no other text

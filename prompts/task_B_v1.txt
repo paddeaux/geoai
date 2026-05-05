@@ -1,0 +1,12 @@
+Using publicly available data such as OpenStreetMap, generate a GeoJSON FeatureCollection of exactly 500 restaurant Point features in {{CITY_NAME}} within the following boundary:
+
+{{BOUNDARY_JSON}}
+
+Requirements:
+- Type: FeatureCollection
+- Exactly 500 features, each of type Point
+- All points must be inside the provided boundary
+- Use real restaurant names and locations from OpenStreetMap where possible
+- Coordinates in WGS84 (longitude, latitude)
+- Each feature must have at minimum: {"name": "restaurant name"}
+- Output ONLY the GeoJSON — no other text

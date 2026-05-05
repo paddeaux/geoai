@@ -1,0 +1,11 @@
+Generate a synthetic GeoJSON FeatureCollection of exactly 500 restaurant Point features located within the following city boundary:
+
+{{BOUNDARY_JSON}}
+
+Requirements:
+- Type: FeatureCollection
+- Exactly 500 features, each of type Point
+- All points must be inside the provided boundary
+- Coordinates in WGS84 (longitude, latitude)
+- Each feature must have at minimum: {"name": "restaurant name"}
+- Output ONLY the GeoJSON — no other text
