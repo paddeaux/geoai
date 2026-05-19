@@ -45,25 +45,25 @@ that are spatially valid and comparable to baseline datasets produced by RADIAN?
 
 | City | Boundary File | Approx. BBox |
 |---|---|---|
-| London | `content-raw/london_4326.geojson` | `-0.51, 51.28, 0.33, 51.69` |
-| Berlin | `content-raw/berlin_4326.geojson` | `13.09, 52.34, 13.76, 52.68` |
+| London | `london_4326.geojson` | `-0.51, 51.28, 0.33, 51.69` |
+| Berlin | `berlin_4326.geojson` | `13.09, 52.34, 13.76, 52.68` |
 
 ## Experimental Matrix
 
 | Task | City | Method | Output dir |
 |---|---|---|---|
-| A | London | LLM (all 6 models) | `data/llm-outputs/{model}/` |
-| A | Berlin | LLM (all 6 models) | `data/llm-outputs/{model}/` |
-| A | London | RADIAN (baseline) | TBD (Paddy's team) |
-| A | Berlin | RADIAN (baseline) | TBD (Paddy's team) |
-| B | London | LLM (all 6 models) | `data/llm-outputs/{model}/` |
-| B | Berlin | LLM (all 6 models) | `data/llm-outputs/{model}/` |
-| B | London | RADIAN baseline | TBD (Paddy's team) |
-| B | Berlin | RADIAN baseline | TBD (Paddy's team) |
-| C | London | LLM (all 6 models) | `data/llm-outputs/{model}/` |
-| C | Berlin | LLM (all 6 models) | `data/llm-outputs/{model}/` |
-| C | London | RADIAN baseline (CSR) | TBD (Paddy's team) |
-| C | Berlin | RADIAN baseline (CSR) | TBD (Paddy's team) |
+| A | London | LLM (all 6 models) | `llm-outputs/{model}/` |
+| A | Berlin | LLM (all 6 models) | `llm-outputs/{model}/` |
+| A | London | RADIAN (baseline) | `llm-outputs/radian/` |
+| A | Berlin | RADIAN (baseline) | `llm-outputs/radian/` |
+| B | London | LLM (all 6 models) | `llm-outputs/{model}/` |
+| B | Berlin | LLM (all 6 models) | `llm-outputs/{model}/` |
+| B | London | RADIAN baseline | `llm-outputs/radian/` |
+| B | Berlin | RADIAN baseline | `llm-outputs/radian/` |
+| C | London | LLM (all 6 models) | `llm-outputs/{model}/` |
+| C | Berlin | LLM (all 6 models) | `llm-outputs/{model}/` |
+| C | London | RADIAN baseline (CSR) | `llm-outputs/radian/` |
+| C | Berlin | RADIAN baseline (CSR) | `llm-outputs/radian/` |
 
 ## Models in Scope (Levente's responsibility via Navigator)
 
