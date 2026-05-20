@@ -24,5 +24,8 @@ There were *six* distinct LLMs evaluated in this work, along with the aformentio
 
 This work evaluates these models by using Cross-L and Cross-K functions to compare spatial characteristics and observe any apparent similarities in the underlying distribution of model outputs and real-world data (in the form of Open Street Map), as well as procedurally generated data from RADIAN. Of the models tested, only `claude-4.7-opus` was capable of achieving reasonable results for Task A and B, with the other LLMs being prone to isolated coordinate memorization and a failure to replicate natural geographical distributions.
 
+![Claude, GPT 5 and RADIAN comparison](london_multipanel_spatial_distribution.png "Comparison between Claude, GPT 5.4 and RADIAN and their respective outputs for each task.")
+
+
 The full discussion and analyis is available at *link pending*[blank.com]
 
