@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+osm_comparison.ipynb
+london_osm_poi.geojson
+berlin_osm_poi.geojson
